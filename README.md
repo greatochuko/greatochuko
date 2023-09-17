@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Great Ogheneochuko 👋
 
 I'm a passionate full-stack developer with a love for crafting web and mobile applications. I enjoy turning creative ideas into functional and user-friendly software. Here's a bit about me:
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Technology or Framework]
+- 🔭 I’m currently working on  [A Fullstack E-commerce application](mailto:greatochuko4@gmail.com)
+- 🌱 I’m currently learning Django
 - 💬 Ask me about web development, databases, or anything tech-related
 - 📫 How to reach me: [greatochuko4@gmail.com](mailto:greatochuko4@gmail.com)
 
@@ -18,19 +18,12 @@ Here are some of the technologies and tools I work with:
 ## Projects
 Check out some of the projects I've worked on:
 
-1. [Project 1](https://github.com/yourusername/project1) - Brief description of the project.
-2. [Project 2](https://github.com/yourusername/project2) - Brief description of the project.
-3. [Project 3](https://github.com/yourusername/project3) - Brief description of the project.
+1. [Film Finder](https://github.com/greatochuko/film-finder) - 🎬 Movie Rating App: A React-based application to discover, rate, and review your favorite movies!
 
-## Blog
-I occasionally write tech articles on my [Blog](https://yourblogurl.com). Here are some recent posts:
-
-- [Title of Blog Post 1](https://yourblogurl.com/post1) - A brief description of the post.
-- [Title of Blog Post 2](https://yourblogurl.com/post2) - A brief description of the post.
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+- LinkedIn: [https://www.linkedin.com/in/greatochuko](https://www.linkedin.com/in/greatochuko)
+- Twitter: [@greatochuko4](https://twitter.com/greatochuko4)
+- Portfolio: [https://greatochuko.github.io/portfolio/](https://greatochuko.github.io/portfolio/)
 
 Thanks for stopping by! Feel free to connect with me or explore my repositories. Let's collaborate and build something awesome together! 🚀
