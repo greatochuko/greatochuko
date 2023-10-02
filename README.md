@@ -2,7 +2,7 @@
 
 I'm a passionate full-stack developer with a love for crafting web and mobile applications. I enjoy turning creative ideas into functional and user-friendly software. Here's a bit about me:
 
-- 🔭 I’m currently working on  [A Fullstack E-commerce application](mailto:greatochuko4@gmail.com)
+- 🔭 I’m currently working on  [A Fullstack E-commerce application]((https://github.com/greatochuko/digimall))
 - 🌱 I’m currently learning Django
 - 💬 Ask me about web development, databases, or anything tech-related
 - 📫 How to reach me: [greatochuko4@gmail.com](mailto:greatochuko4@gmail.com)
