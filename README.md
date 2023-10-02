@@ -19,10 +19,11 @@ Here are some of the technologies and tools I work with:
 Check out some of the projects I've worked on:
 
 1. [Film Finder](https://github.com/greatochuko/film-finder) - 🎬 Movie Rating App: A React-based application to discover, rate, and review your favorite movies!
+2. [DigiMall](https://github.com/greatochuko/digimall) -  🛒A user-friendly, feature-rich e-commerce platform for seamless online shopping experiences.
 
 
 ## Get in Touch
-- LinkedIn: [https://www.linkedin.com/in/greatochuko](https://www.linkedin.com/in/greatochuko)
+- LinkedIn: [https://www.linkedin.com/in/greatochuko24](https://www.linkedin.com/in/greatochuko24)
 - Twitter: [@greatochuko4](https://twitter.com/greatochuko4)
 - Portfolio: [https://greatochuko.github.io/portfolio/](https://greatochuko.github.io/portfolio/)
 
