@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 Check out some of the projects I've worked on:
 
 1. [Pikxr](https://github.com/greatochuko/pikxr-client) - 💻 A MERN-based social media web app, fostering creativity and connections through visual storytelling. [Visit Live Website](https://pikxr.onrender.com).
-2. [Web Dev Stories](https://github.com/greatochuko/web-dev-stories) - 📝 A full stack Blog web app.
+2. [Web Dev Stories](https://github.com/greatochuko/web-dev-stories) - 📝 A full stack Blog web app [Visit Live Website](https://web-dev-stories.vercel.app).
 3. [TastyPinz](https://github.com/greatochuko/tasty-pinz) -  🛒An all-encompassing full-stack food ordering platform tailored for food enthusiasts, enabling them to effortlessly order and enjoy delectable dishes from a wide array of restaurants.
 4. [My Personal Portfolio](https://github.com/greatochuko/portfolio) - [Visit Live Website](https://greatochuko.onrender.com).
 5. [Film Finder](https://github.com/greatochuko/film-finder) - 🎬 Movie Rating App: A React-based application to discover, rate, and review your favorite movies!
