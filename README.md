@@ -2,7 +2,7 @@
 
 I'm a passionate full-stack developer with a love for crafting web and mobile applications. I enjoy turning creative ideas into functional and user-friendly software. Here's a bit about me:
 
-- 🔭 I’m currently working on  [A food ordering application](https://github.com/greatochuko/tasty-pinz)
+- 🔭 I’m currently working on  [A Fashion Ecommerce Website](https://github.com/greatochuko/shopparel)
 - 🌱 I’m currently learning Django
 - 💬 Ask me about web development, databases, or anything tech-related
 - 📫 How to reach me: [greatochuko123@gmail.com](mailto:greatochuko123@gmail.com)
