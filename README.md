@@ -31,6 +31,6 @@ Check out some of the projects I've worked on:
 
 - **LinkedIn**: [https://www.linkedin.com/in/greatochuko](https://www.linkedin.com/in/greatochuko)
 - **Twitter**: [https://twitter.com/officialochuko](https://twitter.com/officialochuko)
-- **Portfolio**: [https://greatochuko.vercel.app](https://greatochuko.vercel.app)
+- **Portfolio**: [https://greatochuko.com](https://greatochuko.com)
 
 Thanks for stopping by! Feel free to connect with me or explore my repositories. Let's collaborate and build something awesome together! 🚀
